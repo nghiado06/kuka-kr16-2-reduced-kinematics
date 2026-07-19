@@ -1,0 +1,25 @@
+# MATLAB temporary and generated files
+*.asv
+*.m~
+*.autosave
+*.slxc
+slprj/
+codegen/
+*.mex*
+
+# Generated results
+results/*
+!results/.gitkeep
+
+data/letter_trajectory_result.mat
+
+# Exported media
+*.avi
+*.mp4
+*.fig
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
