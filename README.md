@@ -158,10 +158,19 @@ The validated joint sequence is then mapped to the URDF joint convention and ani
 
 Add the final public media here:
 
-- **Handwriting simulation:** `[ADD VIDEO OR GIF LINK]`
-- **Workspace analysis:** `[ADD IMAGE LINK]`
-- **Inverse-kinematics branches:** `[ADD IMAGE LINK]`
-- **Source demonstration:** `[ADD OPTIONAL FULL VIDEO LINK]`
+## Demonstrations
+
+### Handwriting Simulation
+
+![KUKA KR 16-2 handwriting simulation](media/handwriting-demo.gif)
+
+### Workspace Analysis
+
+![KUKA KR 16-2 workspace analysis](media/workspace.png)
+
+### Full Video Demonstration
+
+[Watch the full simulation on YouTube](https://youtu.be/5VDnwH_T05o)
 
 ## Current limitations
 
